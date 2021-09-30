@@ -1,0 +1,22 @@
+#App {
+  margin: 20px;
+}
+
+.label {
+  display: inline-block;
+}
+
+.length {
+  width: 50px;
+  display: inline-block;
+}
+
+.child {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: none;
+}
+
+p {
+  margin: 0px;
+}
